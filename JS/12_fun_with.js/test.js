@@ -1,0 +1,3 @@
+const myArray = []
+
+%DebugPrint(myArray)
